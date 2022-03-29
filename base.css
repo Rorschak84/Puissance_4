@@ -27,4 +27,21 @@ body
 h1
 {
 text-shadow:2px 2px 4px blue;
+box-shadow: 6px 6px 6px black;
+font-size: xx-large;
+font-family:Impact,sans-serif;
+font-weight:bold;
+text-align: center;
+}
+div
+{
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button
+{
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
