@@ -35,7 +35,7 @@ text-align: center;
 }
 div
 {
-display: flex;
+	display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -47,7 +47,7 @@ display: flex;
         border-radius: 40px;
         color: #eeeeee;
         cursor: pointer;
-        display: inline-block;
+        
         font-family: Arial;
         font-size: 20px;
         padding: 8px 30px;
