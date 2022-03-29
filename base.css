@@ -7,15 +7,24 @@
     height: 2cm;
     margin: 0px;
     padding: 0px;
-    border: 2px blue inset;
+    border: 2px black inset;
     border-radius: 2cm;
-    background-color: white;
+    background-color: rgb(0,10,10);
+
     cursor: pointer;
 }
 #game td.player1 {
-    background-color: red;
+    background-color: grey;
 }
 #game td.player2 {
-    background-color: yellow;
+    background-color: white;
+}
+body
+{	
+	background-color:rgb(0,0,64);
 }
 
+h1
+{
+text-shadow:2px 2px 4px blue;
+}
